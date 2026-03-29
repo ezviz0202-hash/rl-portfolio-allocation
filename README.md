@@ -4,6 +4,12 @@ This project explores how reinforcement learning (RL) can be used for lifecycle 
 
 ---
 
+## Project Evolution:
+V1: Risk Preference Modeling  
+→ V2: Explicit Risk Control Framework (Extended Version)
+
+---
+
 ## Motivation
 
 RL is often expected to produce more adaptive and intelligent strategies than traditional rules. This is especially appealing in long-term investment problems, where decisions need to evolve over time.
